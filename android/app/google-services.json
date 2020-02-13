@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "661023323621",
+    "firebase_url": "https://social-network-auth.firebaseio.com",
+    "project_id": "social-network-auth",
+    "storage_bucket": "social-network-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661023323621:android:4f9d37e945794797",
+        "android_client_info": {
+          "package_name": "com.socialnetworkauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661023323621-b5pir2gueffve7nhu148skaov95udsu6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.socialnetworkauth",
+            "certificate_hash": "6ebbb70ee964bd613dac6d1961e9029c14bd704c"
+          }
+        },
+        {
+          "client_id": "661023323621-2trv02uvbu6nh4bfre9im95nd0p418lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRU6VLlwoONuMKS6X8f2MevBhkxeqr2ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661023323621-2trv02uvbu6nh4bfre9im95nd0p418lk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
